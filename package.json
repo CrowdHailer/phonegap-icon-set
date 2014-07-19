@@ -1,0 +1,26 @@
+{
+  "name": "phonegap-icon-set",
+  "version": "0.0.0",
+  "description": "An example of generating several pixel perfect icon versions with grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CrowdHailer/phonegap-icon-set.git"
+  },
+  "keywords": [
+    "phonegap",
+    "icons",
+    "svg",
+    "vector",
+    "grunt"
+  ],
+  "author": "Peter Saxton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrowdHailer/phonegap-icon-set/issues"
+  },
+  "homepage": "https://github.com/CrowdHailer/phonegap-icon-set"
+}
