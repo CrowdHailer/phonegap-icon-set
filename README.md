@@ -45,7 +45,7 @@ grunt rasterize:icons
 Contributions
 =============
 
-Here are some additions I would like to add to grunt-rasterize when I have the oportunity
+Here are some additions I would like to add to grunt-rasterize when I have the opportunity
 
 1. Read output file sizes and location from the config.xml
 2. Use standard file locations 'eg src' such that it will work with grunt-newer
